@@ -6,7 +6,7 @@ ideas:
 4. led recognizing music and exporting colors in rhythm to any type of music
 5. automating door 
 
-Demo Link: https://www.youtube.com/watch?v=0H6n1aK0ZSo
+Demo Link: https://youtu.be/1RwMG3ucG1c
 1st project: arduino music gesture control, tried something different with the next/prev song and it recognizing whether or not to keep going, things like volume up and down were already done and I wanted to try something a little different
 
 
